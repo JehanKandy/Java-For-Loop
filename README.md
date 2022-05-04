@@ -3,6 +3,10 @@ Java For Loop
 <br><br>
 <b>Code Explain</b>
 
+for basic of code follow the following link: <br>
+https://github.com/JehanKandy/First-Coding-with-JAVA
+<br>
+
 .java file
 
         public class for_loop {
@@ -13,5 +17,6 @@ Java For Loop
             }    
         }
 
-for basic of code follow the following link: <br>
 
+
+and According to above code, 
