@@ -25,3 +25,9 @@ and According to following code part,
              System.out.println("Hello World...!1");
         }
 
+I use for loop and <br>
+inside of the for loop I create veriable named 'i' with int data type
+<br><br>
+
+Accordig to int data type we can only add integer values,
+<br>and the I cheack the i value is less than or equal to 10
