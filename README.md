@@ -36,4 +36,15 @@ and the i make incremented one by one to i value,<br>
 at the first the i value is 0;
 
 after that 
+        
+        System.out.println("Hello World...!");
+        
+Print "Hello World..!" 10 times on the consol
 
+
+*********************************************
+
+
+
+Developer : JehanKandy
+Thank You
