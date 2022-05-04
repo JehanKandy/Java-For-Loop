@@ -12,3 +12,6 @@ Java For Loop
                 }
             }    
         }
+
+for basic of code follow the following link: <br>
+
