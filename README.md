@@ -35,6 +35,5 @@ Accordig to int data type we can only add integer values,
 and the i make incremented one by one to i value,<br>
 at the first the i value is 0;
 
-<br>
 after that 
 
